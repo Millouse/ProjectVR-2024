@@ -14185,7 +14185,7 @@ GameObject:
   - component: {fileID: 4889901766116607961}
   - component: {fileID: 7508691768757508195}
   - component: {fileID: 5481807255227297803}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: normalBuilding
   m_TagString: Untagged
   m_Icon: {fileID: 0}
